@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32314.265
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wmf2SvgNet", "Wmf2SvgNet\Wmf2SvgNet.csproj", "{597335AE-1F62-461A-A685-756D06827185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wmf2SvgNetTests", "Wmf2SvgNetTests\Wmf2SvgNetTests.csproj", "{97481C2C-0E22-42A7-982D-60B9EC91687F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597335AE-1F62-461A-A685-756D06827185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597335AE-1F62-461A-A685-756D06827185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597335AE-1F62-461A-A685-756D06827185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597335AE-1F62-461A-A685-756D06827185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97481C2C-0E22-42A7-982D-60B9EC91687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97481C2C-0E22-42A7-982D-60B9EC91687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97481C2C-0E22-42A7-982D-60B9EC91687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97481C2C-0E22-42A7-982D-60B9EC91687F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A469CB99-3C07-417A-AD6E-8860B076B312}
+	EndGlobalSection
+EndGlobal
