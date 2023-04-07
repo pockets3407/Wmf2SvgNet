@@ -12,6 +12,12 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
  * either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
+ * 
+ * NOTICE:
+ * This file has changed from the original file.
+ * Change:
+ *     Added option to use style inside element, instead of css. 
+ *     DevExpress's SVG engine does do not support composite class definitions.
  */
 using System;
 using System.Collections.Generic;
