@@ -10,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace Wmf2SvgNet.Gdi.Wmf.Tests
 {
-    [TestClass()]
+    [TestClass]
     public class WmfParserTests
     {
-        [TestMethod()]
+        [TestMethod]
         public void ConvertToSvgTest()
         {
             string path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) ??
