@@ -23,7 +23,7 @@ namespace Wmf2SvgNet.Gdi.Wmf.Tests
 
             Stream input = new FileStream(testFile, FileMode.Open);
             WmfParser parser = new WmfParser();
-            SvgGdi gdi = new SvgGdi(false);
+            SvgGdi gdi = new SvgGdi(false, true);
             gdi.ReplaceSymbolFont = false;
 
             parser.Parse(input, gdi);
